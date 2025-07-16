@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/angrysky56-mcp-rocq-badge.png)](https://mseep.ai/app/angrysky56-mcp-rocq)
+
 # MCP-RoCQ (Coq Reasoning Server)
 
 # Currently shows tools but Claude can't use it properly for some reason- invalid syntax generally seems the issue but there could be something else.
